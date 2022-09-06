@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "XdwuJ8PU0XA2BIeRFXKBHtCxovw1noAaE2M0qcvgGuDU6HxnOTOllWiXLlWlryJdOaLyU7AJ76LnICgA02neVA==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\ajeeshc\\Documents\\GitHub\\APIStructure\\SampleAPI.Application\\SampleAPI.Application.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\ajeeshc\\.nuget\\packages\\microsoft.extensions.dependencyinjection\\6.0.0\\microsoft.extensions.dependencyinjection.6.0.0.nupkg.sha512",
+    "C:\\Users\\ajeeshc\\.nuget\\packages\\microsoft.extensions.dependencyinjection.abstractions\\6.0.0\\microsoft.extensions.dependencyinjection.abstractions.6.0.0.nupkg.sha512",
+    "C:\\Users\\ajeeshc\\.nuget\\packages\\system.runtime.compilerservices.unsafe\\6.0.0\\system.runtime.compilerservices.unsafe.6.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}

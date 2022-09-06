@@ -1,0 +1,12 @@
+C:\Users\ajeeshc\Documents\GitHub\APIStructure\SampleAPI.Domain\bin\Debug\net6.0\SampleAPI.Domain.deps.json
+C:\Users\ajeeshc\Documents\GitHub\APIStructure\SampleAPI.Domain\bin\Debug\net6.0\SampleAPI.Domain.dll
+C:\Users\ajeeshc\Documents\GitHub\APIStructure\SampleAPI.Domain\bin\Debug\net6.0\SampleAPI.Domain.pdb
+C:\Users\ajeeshc\Documents\GitHub\APIStructure\SampleAPI.Domain\obj\Debug\net6.0\SampleAPI.Domain.csproj.AssemblyReference.cache
+C:\Users\ajeeshc\Documents\GitHub\APIStructure\SampleAPI.Domain\obj\Debug\net6.0\SampleAPI.Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ajeeshc\Documents\GitHub\APIStructure\SampleAPI.Domain\obj\Debug\net6.0\SampleAPI.Domain.AssemblyInfoInputs.cache
+C:\Users\ajeeshc\Documents\GitHub\APIStructure\SampleAPI.Domain\obj\Debug\net6.0\SampleAPI.Domain.AssemblyInfo.cs
+C:\Users\ajeeshc\Documents\GitHub\APIStructure\SampleAPI.Domain\obj\Debug\net6.0\SampleAPI.Domain.csproj.CoreCompileInputs.cache
+C:\Users\ajeeshc\Documents\GitHub\APIStructure\SampleAPI.Domain\obj\Debug\net6.0\SampleAPI.Domain.dll
+C:\Users\ajeeshc\Documents\GitHub\APIStructure\SampleAPI.Domain\obj\Debug\net6.0\refint\SampleAPI.Domain.dll
+C:\Users\ajeeshc\Documents\GitHub\APIStructure\SampleAPI.Domain\obj\Debug\net6.0\SampleAPI.Domain.pdb
+C:\Users\ajeeshc\Documents\GitHub\APIStructure\SampleAPI.Domain\obj\Debug\net6.0\ref\SampleAPI.Domain.dll

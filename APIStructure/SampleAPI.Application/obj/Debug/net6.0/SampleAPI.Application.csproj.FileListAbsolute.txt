@@ -1,0 +1,15 @@
+C:\Users\ajeeshc\Documents\GitHub\APIStructure\SampleAPI.Application\bin\Debug\net6.0\SampleAPI.Application.deps.json
+C:\Users\ajeeshc\Documents\GitHub\APIStructure\SampleAPI.Application\bin\Debug\net6.0\SampleAPI.Application.dll
+C:\Users\ajeeshc\Documents\GitHub\APIStructure\SampleAPI.Application\bin\Debug\net6.0\SampleAPI.Application.pdb
+C:\Users\ajeeshc\Documents\GitHub\APIStructure\SampleAPI.Application\obj\Debug\net6.0\SampleAPI.Application.csproj.AssemblyReference.cache
+C:\Users\ajeeshc\Documents\GitHub\APIStructure\SampleAPI.Application\obj\Debug\net6.0\SampleAPI.Application.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ajeeshc\Documents\GitHub\APIStructure\SampleAPI.Application\obj\Debug\net6.0\SampleAPI.Application.AssemblyInfoInputs.cache
+C:\Users\ajeeshc\Documents\GitHub\APIStructure\SampleAPI.Application\obj\Debug\net6.0\SampleAPI.Application.AssemblyInfo.cs
+C:\Users\ajeeshc\Documents\GitHub\APIStructure\SampleAPI.Application\obj\Debug\net6.0\SampleAPI.Application.csproj.CoreCompileInputs.cache
+C:\Users\ajeeshc\Documents\GitHub\APIStructure\SampleAPI.Application\obj\Debug\net6.0\SampleAPI.Application.dll
+C:\Users\ajeeshc\Documents\GitHub\APIStructure\SampleAPI.Application\obj\Debug\net6.0\refint\SampleAPI.Application.dll
+C:\Users\ajeeshc\Documents\GitHub\APIStructure\SampleAPI.Application\obj\Debug\net6.0\SampleAPI.Application.pdb
+C:\Users\ajeeshc\Documents\GitHub\APIStructure\SampleAPI.Application\obj\Debug\net6.0\ref\SampleAPI.Application.dll
+C:\Users\ajeeshc\Documents\GitHub\APIStructure\SampleAPI.Application\bin\Debug\net6.0\SampleAPI.Domain.dll
+C:\Users\ajeeshc\Documents\GitHub\APIStructure\SampleAPI.Application\bin\Debug\net6.0\SampleAPI.Domain.pdb
+C:\Users\ajeeshc\Documents\GitHub\APIStructure\SampleAPI.Application\obj\Debug\net6.0\SampleAPI.Application.csproj.CopyComplete

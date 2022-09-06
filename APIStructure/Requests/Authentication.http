@@ -1,0 +1,23 @@
+@Host = https://localhost:7019
+
+### LOGIN
+POST {{Host}}/Authentication/login
+Content-Type: application/json
+
+{
+    "Email":"aj@cd.com",
+    "password":"Aj123!"
+}
+
+### REGISTER 
+
+POST {{Host}}/Authentication/register
+Content-Type: application/json
+
+{
+    "firstName" : "Ajeesh",
+    "lastName" : "C",
+    "Email":"aj@cd.com",
+    "password":"Aj123!"
+}
+
